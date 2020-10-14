@@ -154,6 +154,16 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Random_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Random Field</label>
+        <length>15</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>isChecked__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
