@@ -557,13 +557,6 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>Account_Rating_Mandatory</fullName>
-        <active>false</active>
-        <errorConditionFormula>TEXT(Rating)=&apos;&apos;</errorConditionFormula>
-        <errorDisplayField>Rating</errorDisplayField>
-        <errorMessage>Rating is mandatory</errorMessage>
-    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
