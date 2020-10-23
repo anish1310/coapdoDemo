@@ -339,6 +339,17 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>New_Account__c</fullName>
+        <description>Modified the description and length</description>
+        <externalId>false</externalId>
+        <label>New Account</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
