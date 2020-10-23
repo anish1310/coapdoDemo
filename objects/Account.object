@@ -238,6 +238,17 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Test__c</fullName>
+        <description>This needs ti be modified</description>
+        <externalId>false</externalId>
+        <label>Account_Test</label>
+        <length>16</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Active__c</fullName>
         <externalId>false</externalId>
         <label>Active</label>
@@ -340,10 +351,10 @@
     </fields>
     <fields>
         <fullName>New_Account__c</fullName>
-        <description>This needs to be modified</description>
+        <description>Modified the description and length</description>
         <externalId>false</externalId>
         <label>New Account</label>
-        <length>16</length>
+        <length>18</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
