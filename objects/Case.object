@@ -561,6 +561,19 @@
                 <valueName>2</valueName>
             </valueSettings>
             <valueSettings>
+                <controllingFieldValue>GC1040</controllingFieldValue>
+                <controllingFieldValue>GC3040</controllingFieldValue>
+                <controllingFieldValue>GC5060</controllingFieldValue>
+                <valueName>7</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>GC1040</controllingFieldValue>
+                <controllingFieldValue>GC1060</controllingFieldValue>
+                <controllingFieldValue>GC5040</controllingFieldValue>
+                <controllingFieldValue>GC5060</controllingFieldValue>
+                <valueName>8</valueName>
+            </valueSettings>
+            <valueSettings>
                 <controllingFieldValue>GC1060</controllingFieldValue>
                 <controllingFieldValue>GC3040</controllingFieldValue>
                 <controllingFieldValue>GC5020</controllingFieldValue>
@@ -572,15 +585,6 @@
                 <controllingFieldValue>GC5040</controllingFieldValue>
                 <controllingFieldValue>GC5060</controllingFieldValue>
                 <valueName>6</valueName>
-            </valueSettings>
-            <valueSettings>
-                <controllingFieldValue>GC5040</controllingFieldValue>
-                <controllingFieldValue>GC5060</controllingFieldValue>
-                <valueName>8</valueName>
-            </valueSettings>
-            <valueSettings>
-                <controllingFieldValue>GC5060</controllingFieldValue>
-                <valueName>7</valueName>
             </valueSettings>
         </valueSet>
     </fields>
