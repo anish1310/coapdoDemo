@@ -269,6 +269,7 @@
         <fullName>Deployment_Check__c</fullName>
         <description>This is going to be changed</description>
         <externalId>false</externalId>
+        <inlineHelpText>Adding help text to test deployment</inlineHelpText>
         <label>Deployment Check</label>
         <length>16</length>
         <required>false</required>
