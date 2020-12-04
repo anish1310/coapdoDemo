@@ -36,4 +36,9 @@ public class Rocket {
     public String getAttalius() {
         return 'Attalius';
     }
+
+    public String getHealthCheck23() {
+        return 'Attalius';
+    }
+
 }
