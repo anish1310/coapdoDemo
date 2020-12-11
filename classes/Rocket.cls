@@ -39,4 +39,7 @@ public class Rocket {
     public String getHealthCheck23() {
         return 'Attalius';
     }
+    public String getHealthCheck24() {
+        return 'HealthCheck24';
+    }
 }
