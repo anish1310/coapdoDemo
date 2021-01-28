@@ -39,4 +39,9 @@ public class Conflicts {
     public String getHealthCheck23() {
         return 'Attalius';
     }
+
+    public String getHealthCheck24() {
+        return 'Attalius24';
+    }
+
 }
