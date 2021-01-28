@@ -1330,6 +1330,38 @@
             <label>United Kingdom</label>
             <orgDefault>false</orgDefault>
             <standard>true</standard>
+            <states>
+                <active>true</active>
+                <integrationValue>Belfast City</integrationValue>
+                <isoCode>BFS</isoCode>
+                <label>Belfast City</label>
+                <standard>false</standard>
+                <visible>true</visible>
+            </states>
+            <states>
+                <active>true</active>
+                <integrationValue>Belfast</integrationValue>
+                <isoCode>BL</isoCode>
+                <label>Belfast</label>
+                <standard>false</standard>
+                <visible>true</visible>
+            </states>
+            <states>
+                <active>true</active>
+                <integrationValue>Bournemouth</integrationValue>
+                <isoCode>BMH</isoCode>
+                <label>Bournemouth</label>
+                <standard>false</standard>
+                <visible>true</visible>
+            </states>
+            <states>
+                <active>true</active>
+                <integrationValue>Bracknell Forest</integrationValue>
+                <isoCode>BRS</isoCode>
+                <label>Bracknell Forest</label>
+                <standard>false</standard>
+                <visible>true</visible>
+            </states>
             <visible>true</visible>
         </countries>
         <countries>
