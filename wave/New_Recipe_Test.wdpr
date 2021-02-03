@@ -1,0 +1,33 @@
+{
+  "name" : null,
+  "version" : "1.0",
+  "nodes" : {
+    "LOAD_DATASET0" : {
+      "action" : "load",
+      "parameters" : {
+        "dataset" : {
+          "type" : "analyticsDataset",
+          "name" : "DTC_Opportunity_SAMPLE",
+          "label" : "DTC Opportunity"
+        },
+        "fields" : [ "Opportunity_Name", "Billing_State_Province", "Account_Type", "Account_Owner", "Product_Name", "Forecast_Category", "Opportunity_Owner", "Close_Date", "Segment", "Industry", "Opportunity_Source", "Product_Family", "Closed", "Billing_Country", "Won", "Owner_Role", "Stage", "Account_Name", "Opportunity_Type", "Created_Date", "Amount", "Column1" ]
+      },
+      "sources" : [ ]
+    }
+  },
+  "ui" : {
+    "nodes" : {
+      "LOAD_DATASET0" : {
+        "label" : "DTC Opportunity",
+        "type" : "LOAD_DATASET",
+        "top" : 112,
+        "left" : 112,
+        "parameters" : {
+          "sampleSize" : 5000
+        }
+      }
+    },
+    "connectors" : [ ],
+    "hiddenColumns" : [ ]
+  }
+}
