@@ -262,6 +262,13 @@
         <active>true</active>
         <label>Cooler</label>
         <picklistValues>
+            <picklist>Install__c</picklist>
+            <values>
+                <fullName>Counter</fullName>
+                <default>false</default>
+            </values>
+        </picklistValues>
+        <picklistValues>
             <picklist>Color__c</picklist>
             <values>
                 <fullName>Black</fullName>
@@ -281,25 +288,6 @@
             </values>
             <values>
                 <fullName>Yellow</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
-            <picklist>Install__c</picklist>
-            <values>
-                <fullName>Back Bar</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Box</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Double</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Single</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
