@@ -251,6 +251,46 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Text_1__c</fullName>
+        <externalId>false</externalId>
+        <label>Text 1</label>
+        <length>18</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Text_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Text 2</label>
+        <length>16</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Text_3__c</fullName>
+        <externalId>false</externalId>
+        <label>Text 3</label>
+        <length>16</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Text_4__c</fullName>
+        <externalId>false</externalId>
+        <label>Text 4</label>
+        <length>16</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Equipment</label>
     <nameField>
         <label>Equipment Name</label>
