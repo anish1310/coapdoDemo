@@ -53,8 +53,8 @@
             <label>Test criteria</label>
         </rules>
     </decisions>
-    <interviewLabel>Delete_old_Co_Driver_v1-1_InterviewLabel</interviewLabel>
-    <label>Delete old Co-Driver_v1</label>
+    <interviewLabel>Delete_old_Co_Driver_v1-2_InterviewLabel</interviewLabel>
+    <label>Driver App - Delete old Co-Driver</label>
     <processMetadataValues>
         <name>ObjectType</name>
         <value>
