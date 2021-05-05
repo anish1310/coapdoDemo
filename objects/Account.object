@@ -361,50 +361,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>New_Picklist_field__c</fullName>
-        <externalId>false</externalId>
-        <label>New Picklist field</label>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>This</fullName>
-                    <default>false</default>
-                    <label>This</label>
-                </value>
-                <value>
-                    <fullName>Is</fullName>
-                    <default>false</default>
-                    <label>Is</label>
-                </value>
-                <value>
-                    <fullName>A</fullName>
-                    <default>false</default>
-                    <label>A</label>
-                </value>
-                <value>
-                    <fullName>Test</fullName>
-                    <default>false</default>
-                    <label>Test</label>
-                </value>
-                <value>
-                    <fullName>Picklist</fullName>
-                    <default>false</default>
-                    <label>Picklist</label>
-                </value>
-                <value>
-                    <fullName>Field</fullName>
-                    <default>false</default>
-                    <label>Field</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -608,33 +564,6 @@
         <fullName>New_Test_RT</fullName>
         <active>true</active>
         <label>New Test RT</label>
-        <picklistValues>
-            <picklist>New_Picklist_field__c</picklist>
-            <values>
-                <fullName>A</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Field</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Is</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Picklist</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Test</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>This</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
     </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
