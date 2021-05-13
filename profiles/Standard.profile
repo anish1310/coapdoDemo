@@ -229,10 +229,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>TestSnapshot</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>UserStoryHandler</apexClass>
         <enabled>true</enabled>
     </classAccesses>
