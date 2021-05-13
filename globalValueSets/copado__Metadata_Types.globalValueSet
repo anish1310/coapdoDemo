@@ -601,6 +601,11 @@
         <label>WorkflowTask</label>
     </customValue>
     <customValue>
+        <fullName>DataRaptor</fullName>
+        <default>false</default>
+        <label>DataRaptor</label>
+    </customValue>
+    <customValue>
         <fullName>InstalledPackageLayout</fullName>
         <default>false</default>
         <isActive>false</isActive>

@@ -5,6 +5,11 @@
         <name>copado__ViewDeploymentColumns</name>
     </fieldSets>
     <fields>
+        <label><!-- Deployment Steps --></label>
+        <name>Deployment_Steps__c</name>
+        <relationshipLabel><!-- Deployment Steps --></relationshipLabel>
+    </fields>
+    <fields>
         <label><!-- Attachment Id --></label>
         <name>copado__Attachment_Id__c</name>
     </fields>

@@ -306,6 +306,19 @@
         <label>ViewDeploymentColumns</label>
     </fieldSets>
     <fields>
+        <fullName>Deployment_Steps__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Deployment Steps</label>
+        <referenceTo>copado__User_Story__c</referenceTo>
+        <relationshipLabel>Deployment Steps</relationshipLabel>
+        <relationshipName>Steps</relationshipName>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>copado__Attachment_Id__c</fullName>
         <deprecated>false</deprecated>
         <externalId>false</externalId>

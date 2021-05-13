@@ -850,14 +850,14 @@
                     <label>Validation failed</label>
                 </value>
                 <value>
-                    <fullName>Merge Conflict</fullName>
-                    <default>false</default>
-                    <label>Merge Conflict</label>
-                </value>
-                <value>
                     <fullName>Conflicts Resolved</fullName>
                     <default>false</default>
                     <label>Conflicts Resolved</label>
+                </value>
+                <value>
+                    <fullName>Merge Conflict</fullName>
+                    <default>false</default>
+                    <label>Merge Conflict</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
