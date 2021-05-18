@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Netherlands__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Netherlands</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Bankafschrift</fullName>
+                    <default>true</default>
+                    <label>Bank Statement</label>
+                </value>
+                <value>
+                    <fullName>Uittreksel Handelsregister</fullName>
+                    <default>false</default>
+                    <label>Company’s registration certificate</label>
+                </value>
+                <value>
+                    <fullName>Rijbewijs</fullName>
+                    <default>false</default>
+                    <label>Driver’s license</label>
+                </value>
+                <value>
+                    <fullName>Factuur Nutsbedrijf</fullName>
+                    <default>false</default>
+                    <label>Electricity bills</label>
+                </value>
+                <value>
+                    <fullName>Identiteitskaart of ID-kaart</fullName>
+                    <default>false</default>
+                    <label>ID Card</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <label>Test Custom Metadata</label>
+    <pluralLabel>Test Custom Metadatas</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

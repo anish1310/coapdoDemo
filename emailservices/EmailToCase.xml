@@ -4,6 +4,12 @@
     <attachmentOption>All</attachmentOption>
     <authenticationFailureAction>Bounce</authenticationFailureAction>
     <authorizationFailureAction>Discard</authorizationFailureAction>
+    <emailServicesAddresses>
+        <developerName>anish_arora99</developerName>
+        <isActive>true</isActive>
+        <localPart>anish.arora99</localPart>
+        <runAsUser>anish.arora@copado.com.support</runAsUser>
+    </emailServicesAddresses>
     <functionInactiveAction>Bounce</functionInactiveAction>
     <functionName>EmailToCase</functionName>
     <isActive>true</isActive>
